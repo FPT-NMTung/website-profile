@@ -31,12 +31,12 @@ I'm try to be a good leader and a good teammate. I always try to help my teammat
 ### 2. Academic Management System
 - **Description**: A web application for managing academic activities of Aptech
 - **Technology**: C#, ASP.NET MVC, SQL Server, ReactJS, Azure, Gitlab CI/CD, Jira, ...
-- **Link**: [https://ams-apt.herokuapp.com/](https://ams-apt.herokuapp.com/)
+- **Link**: [https://github.com/FPT-NMTung/academic-management-system](https://github.com/FPT-NMTung/academic-management-system)
 
 ### 3. Quizlet Learn
 - **Description**: A web application for learning and free
 - **Technology**: ReactJS, NodeJS, MongoDB, Gitlab CI/CD, Jira, ...
-- **Link**: [https://quizlet-learn.herokuapp.com/](https://quizlet-learn.herokuapp.com/)
+- **Link**: [https://github.com/AdonisGM/quizlet-learn](https://github.com/AdonisGM/quizlet-learn)
 
 ## Education 🎓
 - **School**: FPT University - Hanoi
