@@ -27,7 +27,7 @@ I'm try to be a good leader and a good teammate. I always try to help my teammat
 - Stanley Brothers Securities Incorporation (SBSI)
 - Capital Securities Company (CASC)
 - Bao Minh Securities Joint Stock Company (BMSC)
-- Thien Viet Securities JSC (TVS)
+- Thien Viet Securities Joint Stock Company (TVS)
 
 ### 2. Academic Management System
 - **Description**: A web application for managing academic activities of Aptech
